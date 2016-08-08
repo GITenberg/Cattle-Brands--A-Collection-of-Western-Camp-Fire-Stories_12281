@@ -1,0 +1,35 @@
+_repo: Cattle-Brands--A-Collection-of-Western-Camp-Fire-Stories_12281
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Adams, Andy
+    birthdate: 1859
+    deathdate: 1935
+    gutenberg_agent_id: '773'
+    url: http://www.gutenberg.org/2009/agents/773
+    wikipedia: http://en.wikipedia.org/wiki/Andy_Adams_%28writer%29
+description: ''
+gutenberg_bookshelf: Western
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12281'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'Ranch life -- Fiction'
+- !lcsh 'Cowboys -- Fiction'
+- !lcc 'PS'
+- !lcsh 'West (U.S.) -- Social life and customs -- Fiction'
+- !lcsh 'Frontier and pioneer life -- Fiction'
+- GITenberg
+tableOfContents: Drifting north -- Seigerman's percent -- "Bad Medicine" -- A winter
+  round-up -- A college vagabond -- The double trail -- Rangering -- At Comanche Ford
+  -- Around the spade wagon -- The ransom of Don Ramon Mora -- The passing of Peg-Leg
+  -- In the hands of his friends -- A question of possession -- The story of a poker
+  steer.
+title: 'Cattle Brands: A Collection of Western Camp-Fire Stories'
+url: http://www.gutenberg.org/ebooks/12281
